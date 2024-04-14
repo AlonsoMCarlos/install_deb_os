@@ -19,4 +19,8 @@ volta install pnpm
 echo "Installing zoxide..."
 curl -sS https://webinstall.dev/zoxide | bash
 
+echo "Install curlie..."
+curl -sS https://webinstall.dev/curlie | bash
+
+
 echo "CLI utilities installed successfully!"
